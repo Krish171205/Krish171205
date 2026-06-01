@@ -1,82 +1,81 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:021a0f,30:064e2a,65:0d9e50,100:16c967&text=KRISH%20BAVISHI&fontColor=FFFFFF&fontSize=49&fontAlignY=50&animation=fadeIn&desc=Building%20AI%20systems%20that%20last&descAlignY=68&descSize=20&descFontColor=6ee89e"/>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&text=KRISH%20BAVISHI&fontSize=55&fontColor=ffffff&animation=fadeIn&stroke=7E22CE&strokeWidth=1&color=0:0B1020,50:4C1D95,100:EC4899"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1200&color=0d9e50&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+ML+Enthusiast;PyTorch+%7C+Computer+Vision+%7C+RAG;Turning+Research+into+Production+Systems"/>
+</div>
 
-<h3>
-AI Engineer • ML Enthusiast
-</h3>
+---
 
-<p>
-Building intelligent systems that bridge research and real-world applications.
-</p>
+## About Me
 
-<p>
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+Hi! I'm Krish Bavishi, a student at PICT, Pune pursuing his B.E. in Artificial Intelligence and Data Science. I build scalable AI systems and production-ready machine learning applications - bridging the gap between research and real-world deployment across domains like healthcare, legal tech, fintech, and cybersecurity.
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+I've shipped projects involving computer vision, NLP, RAG pipelines, reinforcement learning, and full-stack platforms. Currently exploring agentic AI, RAG optimization, and production ML systems.
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-</p>
+---
+
+## Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js"/>
+
+</td>
+<td align="center" width="50%">
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**Backend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs"/>
+
+</td>
+<td align="center" width="50%">
+
+**Frontend & Databases**
+
+<img src="https://skillicons.dev/icons?i=react,mongodb,postgresql"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,linux"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# About Me
-
-I am a third-year Artificial Intelligence & Data Science student at PICT, Pune, passionate about building AI systems that solve meaningful real-world problems.
-
-My work spans **Computer Vision**, **Machine Learning**, **NLP**, **Retrieval-Augmented Generation (RAG)**, and **backend engineering**, with projects across healthcare, cybersecurity, legal technology, fintech, and safety systems.
-
-I enjoy taking ideas from research and turning them into scalable products through experimentation, engineering, and deployment.
-
-### Highlights
-
-- 🏆 Winner — Credenz Web Weaver
-- 🏆 Winner — XODIA Reinforcement Learning Challenge
-- 💼 AIML Developer Intern — LSOYS Games & Apps
-- 💼 Full Stack Developer Intern — Krisba Healthcare
-- 💼 Data Analyst Intern — Innobyte Services
-- 🎯 Vice Chairperson — PASC Club
-
----
-
-# Tech Arsenal
+## Let's Connect
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,sql"/>
-
-### Frameworks & Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,react"/>
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-### Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,git,docker,linux"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/krishbavishi)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishbavishi.pict@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krish171205)
 
 </div>
